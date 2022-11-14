@@ -1,4 +1,4 @@
-![holidayBanner](https://github.com/ordonutz/ordonutz/blob/main/halloweenBanner.png)
+<!-- ![holidayBanner](https://github.com/ordonutz/ordonutz/blob/main/halloweenBanner.png) -->
 <h1 align="center">Hey I'm Lez ヽ(•‿•)ノ </h1>
 <h3 align="center">Passionate about everything web development</h3>
 
