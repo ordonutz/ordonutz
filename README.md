@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on [personal portfolio](https://github.com/ordonutz/tsportfolio-)
 
-- 🌱 I’m currently learning **React.js, Typescript, C++, Python, Figma, UX Design, ASL**
-
-- 🤝 I’m looking for help with [personal portfolio](https://github.com/ordonutz/tsportfolio-)
+- 🌱 I’m currently learning **React.js, Angular, Typescript, C++, Figma, UX Design, ASL**
 
 - 👨‍💻 All of my projects are available at [leslieoh.me](leslieoh.me)
 
